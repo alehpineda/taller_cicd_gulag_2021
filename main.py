@@ -6,3 +6,10 @@ def suma(x, y):
         return x + y
     else:
         raise TypeError
+
+
+def resta(x, y):
+    """
+    Esta funcion devuelve la resta de dos numeros
+    """
+    return x - y
