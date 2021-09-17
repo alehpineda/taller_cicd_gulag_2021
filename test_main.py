@@ -9,4 +9,4 @@ def test_suma_correcta():
 
 def test_suma_exception():
     with pytest.raises(TypeError):
-        suma(21, 21)
+        suma(21, "21")
