@@ -1,4 +1,4 @@
-def suma(x,y):
+def suma(x, y):
     if type(x) == int and type(y) == int:
         return x + y
     else:
